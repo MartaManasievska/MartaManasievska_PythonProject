@@ -1,6 +1,6 @@
 import pygame
 import os
-from base_development import BaseDevelopmentScene
+from project.base_development import BaseDevelopmentScene
 
 class CareerChoice(BaseDevelopmentScene):
     def __init__(self, screen):
